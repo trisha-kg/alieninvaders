@@ -1,0 +1,27 @@
+Trisha Guttal, tkg32
+December 3rd 2018
+
+Below are the extensions that I have implemented in my code:
+
+ -  I have changed the game's background to a creative commons stars beckground.
+    The image is by Felix Mittermeier. It can be found here:
+    https://www.pexels.com/photo/sky-with-stars-illustration-957061/
+ -  I have designed the game so that even the aliens that are not at the bottom
+    row are able to fire bolts. If bolts are sent by aliens above other aliens,
+    the aliens below are not affected and only the ship is affected by
+    these bolt collisions.
+ -  I have added royalty free background music to the game which I have
+    retrieved from incompetech.com. The song is called '8 Bit Dungeon Level'.
+        "8bit Dungeon Level" Kevin MacLeod (incompetech.com)
+        Licensed under Creative Commons: By Attribution 3.0 License
+        http://creativecommons.org/licenses/by/3.0/
+ -  I have also added a laser sound effect to the game, which is played when the
+    spacebar is pressed and the ship shoots a bolt. I retrieved this sound
+    effect from freesound.org, and it is licensed under a creative commons
+    license. It has been created by Matias "Mattix" Lahoud and can be found
+    using this URL: https://freesound.org/people/Mattix/sounds/413057/
+ -  I have allowed users to mute the background music on the welcome screen by
+    pressing the 'm' key on the keyboard.
+ -  I also dynamically speed up the aliens by multiplying the current speed by
+    0.97 as more of them are killed.
+ -  I have animated the aliens as they move.
